@@ -1,0 +1,6 @@
+{
+  "name": "Teal Glass Tic Tac Toe",
+  "description": "A glassmorphism 3x3 Tic Tac Toe game with cyan-teal and coral marks, animated winning line, score tracking, and smooth haptic audio.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
